@@ -1,4 +1,7 @@
-# api documentation for  [is-url (v1.2.2)](https://github.com/segmentio/is-url#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-is-url.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-is-url) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-is-url.svg)](https://travis-ci.org/npmdoc/node-npmdoc-is-url)
+# npmdoc-is-url
+
+#### basic api documentation for  [is-url (v1.2.2)](https://github.com/segmentio/is-url#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-is-url.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-is-url) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-is-url.svg)](https://travis-ci.org/npmdoc/node-npmdoc-is-url)
+
 #### Check whether a string is a URL.
 
 [![NPM](https://nodei.co/npm/is-url.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/is-url)
@@ -51,7 +54,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "1.2.2"
+    "version": "1.2.2",
+    "bin": {}
 }
 ```
 
